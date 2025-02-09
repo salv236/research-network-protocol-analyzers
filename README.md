@@ -20,7 +20,7 @@ In your role as a cybersecurity analyst, you have been asked to research the dif
 Step 1: Access the template
 To use the template for this course item, click the link and select Use Template. 
 
-Link to template: <a href"https://docs.google.com/presentation/d/1ouKZ4YVI9IKrIEGEz5A-A2fwcKsLYxZRqtOT1d9D-Lc/template/preview?resourcekey=0-5nQZnN18beQMlTyXERtt0A"> Diagram template </a>
+Link to template: <a href="https://docs.google.com/presentation/d/1ouKZ4YVI9IKrIEGEz5A-A2fwcKsLYxZRqtOT1d9D-Lc/template/preview?resourcekey=0-5nQZnN18beQMlTyXERtt0A"> Diagram template </a>
 
 Step 2: Conduct online research: 
 
